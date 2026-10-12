@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://family-os.dzbakun.workers.dev/$1"
+    }
+  ]
+}
